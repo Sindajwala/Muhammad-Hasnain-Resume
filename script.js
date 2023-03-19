@@ -26,14 +26,14 @@ $(document).ready(function(){
 // typing animation scri
 
       var typed = new Typed(".typing",{
-        strings: ["","Power Engg.", "Operations Engg.", "Mechanical Engg.", "Entrepreneur"],
+        strings: ["","Power Engg.", "Operations Engg.", "Mechanical Engg."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
       });
 
       var typed = new Typed(".typing-2",{
-        strings: ["","Power Engg.", "Operations Engg.", "Mechanical Engg.", "Entrepreneur"],
+        strings: ["","Power Engg.", "Operations Engg.", "Mechanical Engg."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
